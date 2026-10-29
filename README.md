@@ -48,12 +48,9 @@ ShopSight is a Big Data Analytics project designed to analyze large-scale e-comm
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+ https://github.com/Sumitdffff/ShopSight-E-Commerce-Big-Data-Analytics.git
 cd bda
 ```
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your actual GitHub repository URL.
-
 ### 2. Install Dependencies
 
 ```bash
